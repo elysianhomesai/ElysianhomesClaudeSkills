@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "elysian-homes",
+  "description": "Elysian Homes Claude tools",
+  "owner": {
+    "name": "Elysian Homes"
+  },
+  "plugins": [
+    {
+      "name": "elysian-homes-tools",
+      "description": "Elysian Homes real estate operations skills for Claude.",
+      "source": "./"
+    }
+  ]
+}
