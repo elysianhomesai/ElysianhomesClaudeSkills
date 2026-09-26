@@ -1,0 +1,8 @@
+{
+  "name": "elysian-homes-tools",
+  "version": "0.1.0",
+  "description": "Elysian Homes Claude skills for transaction coordination, contract intake, compliance, CMA analysis, seller presentations, marketing design, brokerage operations, and agent roster reference.",
+  "author": {
+    "name": "Elysian Homes"
+  }
+}
